@@ -13,5 +13,5 @@ variable "app_env" {
 variable "sns_email" {
   description = "value"
   type        = string
-  default     = "justinconn98@gmail.com"
+  default     = "YOUR_EMAIL@gmail.com"
 }
